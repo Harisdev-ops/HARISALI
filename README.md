@@ -23,8 +23,8 @@
 
 # 👨‍💻 About Me
 
-- 🚀 Learning **AWS, Docker, Kubernetes, Jenkins & Terraform**
-- 🌱 Building real-world **DevOps Projects**
+- 🔭 Currently working as a DevOps Engineer at Miseacademy (Japan)
+- 🌱 Deepening expertise in Kubernetes, CI/CD pipelines, Cloud Infrastructure & AI Agents
 - 💡 Passionate about **Cloud Computing, Automation & AI**
 - 🐧 Linux System Administration Enthusiast
 - 🎓 BS Computer Science - Riphah International University
