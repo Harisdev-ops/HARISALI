@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haris Ali</h1>
+<h1 align="center">Hi 👋, I'm HARIS ALI</h1>
 <h3 align="center"> DevOps & AI Agentic Engineer </h3>
 
 <p align="center">
